@@ -1,5 +1,5 @@
 # ScaleSCAN: Scalable Density-based Graph Clustering
-The codes of ScaleSCAN developed by Tomokatsu Takahashi for DEXA'18.
+The codes of ScaleSCAN developed by **Tomokatsu Takahashi** for DEXA'18.
 If you use our software, **please cite the following paper**.
 
 
